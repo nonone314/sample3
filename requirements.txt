@@ -8,3 +8,4 @@ openai
 langchain
 chromadb
 openpyxl
+scipy
